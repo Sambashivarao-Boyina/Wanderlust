@@ -1,5 +1,5 @@
-# Delta-Project
+# Wanderlust
 ## This is the link of this website
-https://delta-project-ynch.onrender.com/listings 
+ 
 
-This website contains many features like user signup options,adding Listings,giving reviews to the listings. I learn a lot from this Project
+This website offers various features such as user sign-up, listing addition, and review submissions. I gained a lot of knowledge from this project.
